@@ -20,7 +20,7 @@ This repository serves as a showcase of my documentation and planning skills as 
 
 ## Viewing the Document
 The SRS document is available in PDF format:
-- [High School Scheduling System SRS PDF]([/path/to/your/pdf](https://github.com/Konfistador/HighSchoolSchedulingSystemSRS/blob/24b57dc1ca34e47b16aa8380c752887ce47e2cba/SRS%20.pdf))
+- [High School Scheduling System SRS PDF](SRS.pdf)(https://github.com/Konfistador/HighSchoolSchedulingSystemSRS/blob/24b57dc1ca34e47b16aa8380c752887ce47e2cba/SRS%20.pdf))
 
 ## Content Overview
 ![Page1 Preview](https://github.com/Konfistador/HighSchoolSchedulingSystemSRS/blob/main/img/p1.png?raw=true)
